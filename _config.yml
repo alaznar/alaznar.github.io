@@ -1,3 +1,56 @@
-title: Alejandro Aznar Casado
-logo: assets/img/1635788535608.jpg
-theme: jekyll-theme-minimal
+# _config.yml
+title: "Alejandro Aznar Casado"
+name:  "Alejandro Aznar Casado"
+description: "Data science & biostat en farma · R · Python · Power BI"
+url: "https://alaznar.github.io"
+logo: /assets/img/1635788535608.jpg
+
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "air"   # otras skins: default, dark, neon, sunrise...
+
+lang: es
+search: true
+permalink: /:categories/:title/
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+author:
+  name: "Alejandro Aznar Casado"
+  avatar: /assets/img/1635788535608.jpg
+  bio: "Biotech → Data/Stats en farma. R, Python, Power BI. Safety/Clinical Data."
+  location: "Madrid, España"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:tu@email.com"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/alejandro-aznar-casado/"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/alaznar"
+
+# Colección de proyectos (para tener /projects con fichas)
+collections:
+  projects:
+    output: true
+    permalink: /projects/:title/
+
+defaults:
+  - scope: { path: "", type: "projects" }
+    values:
+      layout: single
+      author_profile: true
+      classes: wide
+      read_time: false
+      share: false
+
+# Analítica (opcional)
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-XXXXXXXXXX"
