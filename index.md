@@ -10,6 +10,9 @@ header:
       url: /assets/CV_Alejandro_Aznar.pdf
     - label: "LinkedIn"
       url: https://www.linkedin.com/in/alejandroaznar-/
+intro:
+  - excerpt: |
+      ** Propuesta de valor.** Data Scientist with experience in Saftey and Clinical Data. R, Python and Power BI.
 feature_row:
   - image_path: /assets/img/garmin_teaser.png
     alt: "Garmin Data Analysis"
