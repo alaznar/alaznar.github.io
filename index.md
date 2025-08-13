@@ -14,13 +14,13 @@ feature_row:
   - image_path: /assets/img/garmin_teaser.png
     alt: "Garmin Data Analysis"
     title: "Garmin Data"
-    url: /_projects/Python/Garmin Data/
+    url: alaznar/Garmin-Data/Garmin-Data.ipynb
     btn_label: "Ver caso"
     btn_class: "btn--primary"
   - image_path: /assets/img/diabetes_teaser.png
     alt: "Diabetes Multiclase"
     title: "Multiclass Prediction of Diabetes"
-    url: /_projects/Python/Diabetes/
+    url: alaznar/Diabetes-class/Diabetes.ipynb
     btn_label: "Ver caso"
     btn_class: "btn--primary"
 ---
