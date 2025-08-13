@@ -16,7 +16,7 @@ intro:
 feature_row:
   - alt: "Garmin Data Analysis"
     title: "Garmin Data"
-    url: /projects/Python/
+    url: /projects/garmin/
     btn_label: "See Project"
     btn_class: "btn--primary"
     image_path: /assets/img/garmin_teaser.png
