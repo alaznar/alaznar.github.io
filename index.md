@@ -17,13 +17,13 @@ feature_row:
   - image_path: /assets/img/garmin_teaser.png
     alt: "Garmin Data Analysis"
     title: "Garmin Data"
-    url: alaznar/Garmin-Data/Garmin-Data.ipynb
+    url: https://nbviewer.org/github/alaznar/Garmin-Data/blob/95b682a58635a78fd71c807803aba99e88093a0a/Garmin%20Data.ipynb
     btn_label: "See Project"
     btn_class: "btn--primary"
   - image_path: /assets/img/diabetes_teaser.png
     alt: "Diabetes Multiclase"
     title: "Multiclass Prediction of Diabetes"
-    url: alaznar/Diabetes-class/Diabetes.ipynb
+    url: https://nbviewer.org/github/alaznar/Garmin-Data/blob/95b682a58635a78fd71c807803aba99e88093a0a/Garmin%20Data.ipynb
     btn_label: "See Project"
     btn_class: "btn--primary"
 ---
