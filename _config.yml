@@ -10,7 +10,7 @@ timezone: Europe/Madrid
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "aqua"   # otras skins: default, dark, neon, sunrise...
 
-lang: es
+lang: en
 search: true
 permalink: /:categories/:title/
 
