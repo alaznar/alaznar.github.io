@@ -11,21 +11,25 @@ header:
     - label: "LinkedIn"
       url: https://www.linkedin.com/in/alejandroaznar-/
 intro:
-  - excerpt: |
-      ** Propuesta de valor.** Data Scientist with experience in Saftey and Clinical Data. R, Python and Power BI.
+  - excerpt: >
+      **Propuesta de valor.** Data Scientist with experience in Safety and Clinical Data. R, Python and Power BI.
 feature_row:
-  - alt: "Garmin Data Analysis"
+  - image_path: /assets/img/Garmin_teaser.png
+    alt: "Garmin Data Analysis"
     title: "Garmin Data"
+    excerpt: "Análisis de actividad y visualización reproducible."
     url: /projects/garmin/
     btn_label: "See Project"
     btn_class: "btn--primary"
-    image_path: /assets/img/Garmin_teaser.png
   - image_path: /assets/img/Diabetes_teaser.png
     alt: "Diabetes Multiclase"
     title: "Multiclass Prediction of Diabetes"
-    url: https://nbviewer.org/github/alaznar/Garmin-Data/blob/95b682a58635a78fd71c807803aba99e88093a0a/Garmin%20Data.ipynb
+    excerpt: "Clasificación no/prediabético/diabético."
+    url: /projects/diabetes/
     btn_label: "See Project"
     btn_class: "btn--primary"
 ---
+
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
