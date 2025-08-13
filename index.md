@@ -19,8 +19,8 @@ feature_row:
     url: /projects/garmin/
     btn_label: "See Project"
     btn_class: "btn--primary"
-    image_path: /assets/img/garmin_teaser.png
-  - image_path: /assets/img/diabetes_teaser.png
+    image_path: /assets/img/Garmin_teaser.png
+  - image_path: /assets/img/Diabetes_teaser.png
     alt: "Diabetes Multiclase"
     title: "Multiclass Prediction of Diabetes"
     url: https://nbviewer.org/github/alaznar/Garmin-Data/blob/95b682a58635a78fd71c807803aba99e88093a0a/Garmin%20Data.ipynb
