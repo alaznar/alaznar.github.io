@@ -17,7 +17,7 @@ feature_row:
   - image_path: /assets/img/garmin_teaser.png
     alt: "Garmin Data Analysis"
     title: "Garmin Data"
-    url: https://nbviewer.org/github/alaznar/Garmin-Data/blob/95b682a58635a78fd71c807803aba99e88093a0a/Garmin%20Data.ipynb
+    url: /_projects/Python/garmin-data.md
     btn_label: "See Project"
     btn_class: "btn--primary"
   - image_path: /assets/img/diabetes_teaser.png
