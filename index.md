@@ -17,7 +17,7 @@ feature_row:
   - image_path: /assets/img/garmin_teaser.png
     alt: "Garmin Data Analysis"
     title: "Garmin Data"
-    url: /_projects/Python/garmin-data.md
+    url: /_projects/Python/garmin.md
     btn_label: "See Project"
     btn_class: "btn--primary"
   - image_path: /assets/img/diabetes_teaser.png
