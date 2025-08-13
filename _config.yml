@@ -8,7 +8,7 @@ logo: /assets/img/alejandro-aznar.jpg
 timezone: Europe/Madrid
 
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "air"   # otras skins: default, dark, neon, sunrise...
+minimal_mistakes_skin: "neon"   # otras skins: default, dark, neon, sunrise...
 
 lang: es
 search: true
