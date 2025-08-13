@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /
   - title: "Projects"
-    url: /_projects/
+    url: /projects/
   - title: "CV"
     url: /assets/CV_Alejandro_Aznar.pdf
   - title: "Contact"
