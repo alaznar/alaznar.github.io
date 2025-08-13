@@ -40,7 +40,7 @@ author:
 collections:
   projects:
     output: true
-    permalink: /projects/:title/
+    permalink: /projects/:path/
 
 defaults:
   - scope: { path: "", type: "projects" }
