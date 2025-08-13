@@ -12,7 +12,7 @@ header:
       url: https://www.linkedin.com/in/alejandroaznar-/
 intro:
   - excerpt: >
-      **Propuesta de valor.** Data Scientist with experience in Safety and Clinical Data. R, Python and Power BI.
+      Data Scientist with experience in Safety and Clinical Data. R, Python and Power BI.
 feature_row:
   - image_path: /assets/img/Garmin_teaser.png
     alt: "Garmin Data Analysis"
