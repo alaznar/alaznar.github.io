@@ -10,7 +10,7 @@ teaser: /assets/img/garmin_teaser.png
 
 ***Results*** Dashboard with key metrics (heart rate, distance, sleep) which allow data tracking with ease.
 
-***Stack*** Python · Matplotlib · statsmodels · Sci-kit learn · Jupyter 
+***Stack*** Python · pandas · Matplotlib · statsmodels · Sci-kit learn · Jupyter 
 
 - [Repo](https://github.com/alaznar/Garmin-Data)
 - [Click here to see the Project](https://nbviewer.org/github/alaznar/Garmin-Data/blob/95b682a58635a78fd71c807803aba99e88093a0a/Garmin%20Data.ipynb)
