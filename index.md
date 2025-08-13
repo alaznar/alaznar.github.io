@@ -22,9 +22,9 @@ feature_row:
     btn_label: "See Project"
     btn_class: "btn--primary"
   - image_path: /assets/img/Diabetes_teaser.png
-    alt: "Diabetes Multiclase"
+    alt: "Diabetes Multiclass Prediction"
     title: "Multiclass Prediction of Diabetes"
-    excerpt: "Clasificación no/prediabético/diabético."
+    excerpt: "Classification of Diabetic classes by deploying ML algorithms"
     url: /projects/diabetes/
     btn_label: "See Project"
     btn_class: "btn--primary"
