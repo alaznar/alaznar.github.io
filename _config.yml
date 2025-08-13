@@ -1,12 +1,14 @@
 # _config.yml
 title: "Alejandro Aznar Casado"
 name:  "Alejandro Aznar Casado"
-description: "Data science & biostat en farma · R · Python · Power BI"
+description: "Data science & Biostat in Pharma · R · Python · Power BI"
 url: "https://alaznar.github.io"
-logo: /assets/img/1635788535608.jpg
+baseurl: ""
+logo: /assets/img/alejandro-aznar.jpg
+timezone: Europe/Madrid
 
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "air"   # otras skins: default, dark, neon, sunrise...
+minimal_mistakes_skin: "sunrise"   # otras skins: default, dark, neon, sunrise...
 
 lang: es
 search: true
@@ -20,9 +22,9 @@ plugins:
 
 author:
   name: "Alejandro Aznar Casado"
-  avatar: /assets/img/1635788535608.jpg
+  avatar: /assets/img/1alejandro-aznar.jpg
   bio: "Biotech → Data/Stats en farma. R, Python, Power BI. Safety/Clinical Data."
-  location: "Madrid, España"
+  location: "Madrid, Spain"
   links:
     - label: "Email"
       icon: "fas fa-envelope"
