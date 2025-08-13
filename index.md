@@ -17,7 +17,7 @@ feature_row:
   - image_path: /assets/img/Garmin_teaser.png
     alt: "Garmin Data Analysis"
     title: "Garmin Data"
-    excerpt: "Análisis de actividad y visualización reproducible."
+    excerpt: "This project is an end-to-end personal Garmin data analysis combining exploration, visualization, and modeling. Data was cleaned and merged using Pandas and NumPy, with EDA performed through Matplotlib and Seaborn (distributions, correlations, pairplots) and GPS routes mapped via gpxpy + Folium. Linear regression models were built to estimate calories/pace from running metrics, applying log transformations, imputation, and scaling, while validating assumptions with Shapiro-Wilk, Breusch-Pagan, QQ-plots, and VIF. Additionally, K-Means clustering (with k selection via silhouette score) was used to segment training sessions and patterns. The result was a hybrid data visualization and data science project with interpretable models, delivering actionable insights into training and recovery habits."
     url: /projects/garmin/
     btn_label: "See Project"
     btn_class: "btn--primary"
