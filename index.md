@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "Bioinformática y Data Science en Farma"
-subtitle: "R · Python · Power BI · Automatización · Safety/Clinical Data"
+title: "Alejandro Aznar - Data Scientist"
+subtitle: "R · Python · Power BI · Automation · Safety/Clinical Data"
 header:
   overlay_filter: 0.2
   overlay_image: /assets/img/header.jpg # opcional
