@@ -9,18 +9,18 @@ header:
     - label: "Descargar CV"
       url: /assets/CV_Alejandro_Aznar.pdf
     - label: "LinkedIn"
-      url: https://www.linkedin.com/in/alejandro-aznar-casado/
+      url: https://www.linkedin.com/in/alejandroaznar-/
 feature_row:
   - image_path: /assets/img/garmin_teaser.png
-    alt: "Garmin Data"
+    alt: "Garmin Data Analysis"
     title: "Garmin Data"
-    url: /projects/garmin/
+    url: /_projects/Python/Garmin Data/
     btn_label: "Ver caso"
     btn_class: "btn--primary"
   - image_path: /assets/img/diabetes_teaser.png
     alt: "Diabetes Multiclase"
-    title: "Diabetes Multiclase"
-    url: /projects/diabetes/
+    title: "Multiclass Prediction of Diabetes"
+    url: /_projects/Python/Diabetes/
     btn_label: "Ver caso"
     btn_class: "btn--primary"
 ---
