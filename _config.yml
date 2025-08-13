@@ -8,7 +8,7 @@ logo: /assets/img/alejandro-aznar.jpg
 timezone: Europe/Madrid
 
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "sunrise"   # otras skins: default, dark, neon, sunrise...
+minimal_mistakes_skin: "air"   # otras skins: default, dark, neon, sunrise...
 
 lang: es
 search: true
@@ -40,7 +40,7 @@ author:
 collections:
   projects:
     output: true
-    permalink: /projects/:path/
+    permalink: /projects/:name/
 
 defaults:
   - scope: { path: "", type: "projects" }
