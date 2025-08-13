@@ -14,12 +14,12 @@ intro:
   - excerpt: |
       ** Propuesta de valor.** Data Scientist with experience in Saftey and Clinical Data. R, Python and Power BI.
 feature_row:
-  - image_path: /assets/img/garmin_teaser.png
-    alt: "Garmin Data Analysis"
+  - alt: "Garmin Data Analysis"
     title: "Garmin Data"
-    url: /_projects/Python/garmin.md
+    url: /projects/Python/
     btn_label: "See Project"
     btn_class: "btn--primary"
+    image_path: /assets/img/garmin_teaser.png
   - image_path: /assets/img/diabetes_teaser.png
     alt: "Diabetes Multiclase"
     title: "Multiclass Prediction of Diabetes"
