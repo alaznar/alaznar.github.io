@@ -1,10 +1,10 @@
 # _data/navigation.yml
 main:
-  - title: "Inicio"
+  - title: "Home"
     url: /
-  - title: "Proyectos"
-    url: /projects/
+  - title: "Projects"
+    url: /_projects/
   - title: "CV"
     url: /assets/CV_Alejandro_Aznar.pdf
-  - title: "Contacto"
+  - title: "Contact"
     url: mailto:alaznar01@email.com
