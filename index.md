@@ -21,7 +21,7 @@ feature_row:
     url: /projects/garmin/
     btn_label: "See Project"
     btn_class: "btn--primary"
-  - image_path: /assets/img/Diabetes_teaser.png
+  - image_path: /assets/img/Diabetes.png
     alt: "Diabetes Multiclass Prediction"
     title: "Multiclass Prediction of Diabetes"
     excerpt: "Classification of Diabetic classes by deploying ML algorithms"
