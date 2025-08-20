@@ -28,7 +28,7 @@ feature_row:
     url: /projects/diabetes/
     btn_label: "See Project"
     btn_class: "btn--primary"
-  - image_path /assets/img/bcsurvival.png
+  - image_path: /assets/img/bcsurvival.png
     alt: "Breast Cancer Survival Analysis"
     title: "Breast Cancer Survival Analysis"
     excerpt: "Development of KM curves and Cox PH Models"
