@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/img/header.jpg # opcional
   actions:
     - label: "Descargar CV"
-      url: /assets/CV_Alejandro_Aznar.pdf
+      url: /assets/CV_Alejandro_Aznar_Casado.pdf
     - label: "LinkedIn"
       url: https://www.linkedin.com/in/alejandroaznar-/
 intro:
