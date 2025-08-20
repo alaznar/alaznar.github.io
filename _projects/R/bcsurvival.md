@@ -17,6 +17,7 @@ Kaplan–Meier plots stratified by clinical variables, estimated hazard ratios w
 R · survival · pec · ggplot2 · dplyr · R Markdown
 
 - [Repo](https://github.com/alaznar/Breast-Cancer-Survival)
-- [Click here to see the Project]([https://nbviewer.org/github/alaznar/Garmin-Data/blob/95b682a58635a78fd71c807803aba99e88093a0a/Garmin%20Data.ipynb](https://github.com/alaznar/alaznar.github.io/blob/c13f1142e5136a204a04759155b05d40140e86a3/_projects/R/Survival-Analysis.md))
+- [Click here to see the Project](https://github.com/alaznar/Breast-Cancer-Survival/blob/main/Survival-Analysis.md)
+
 
 
