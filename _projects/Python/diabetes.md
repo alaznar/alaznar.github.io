@@ -1,7 +1,7 @@
 ---
 title: "Diabetes Multiclass Prediction"
 excerpt: "Prediction of Diabetes Class based on biofeatures"
-teaser: /assets/img/Diabetes_teaser.png
+teaser: /assets/img/Diabetes.png
 ---
 
 ***Challenge*** Classification of patients into 3 different groups: Diabetic, Prediabetic or Non-diabetic
