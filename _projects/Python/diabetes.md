@@ -13,4 +13,4 @@ teaser: /assets/img/Diabetes_teaser.png
 ***Stack*** Python · Matplotlib · keras · tensorFlow · sci-kit learn
 
 - [Repo](https://github.com/alaznar/Diabetes>)
-- [Notebook](https://nbviewer.org/github/alaznar/Diabetes-class/blob/374b7c248acb870380d328dded5df736b89bccc4/Diabetes.ipynb)
+- [Click here to see project](https://nbviewer.org/github/alaznar/Diabetes-class/blob/374b7c248acb870380d328dded5df736b89bccc4/Diabetes.ipynb)
