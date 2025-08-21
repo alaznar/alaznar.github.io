@@ -36,9 +36,9 @@ feature_row:
     btn_label: "See Project"
     btn_class: "btn--primary"
   - image_path: /assets/img/FAERS.png
-    alt: "SQLite-powered exploration of FDA adverse event reports"
-    title: "SQLite-powered exploration of FDA adverse event reports"
-    excerpt: "Answer practical safety questions related to Ozempic such as top reactions, concomitant treatments, and outcomes over time."
+    alt: "FAERS Adverse Events SQL Project"
+    title: "FAERS Adverse Events SQL Project"
+    excerpt: "Built an SQLite database from FDA FAERS data to analyze drug safety, with a focus on Ozempic (semaglutide) adverse events."
     url: /projects/FAERS_Ozempic/
     btn_label: "See Project"
     btn_class: "btn--primary"
