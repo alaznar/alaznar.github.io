@@ -3,7 +3,7 @@ layout: splash
 title: "Alejandro Aznar - Data Scientist"
 subtitle: "R · Python · Power BI · Automation · Safety/Clinical Data"
 header:
-  overlay_filter: 0.2
+  overlay_filter: 0.25
   overlay_image: /assets/img/header.jpg # opcional
   actions:
     - label: "Descargar CV"
@@ -33,13 +33,6 @@ feature_row:
     title: "Breast Cancer Survival Analysis"
     excerpt: "Development of KM curves and Cox PH Models."
     url: /projects/bcsurvival/
-    btn_label: "See Project"
-    btn_class: "btn--primary"
-  - image_path: /assets/img/FAERS.png
-    alt: "FAERS Adverse Events SQL Project"
-    title: "FAERS Adverse Events SQL Project"
-    excerpt: "Built an SQLite database from FDA FAERS data to analyze drug safety, with a focus on Ozempic (semaglutide) adverse events."
-    url: /projects/faers/
     btn_label: "See Project"
     btn_class: "btn--primary"
 ---
