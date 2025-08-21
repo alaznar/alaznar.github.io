@@ -39,7 +39,7 @@ feature_row:
     alt: "FAERS Adverse Events SQL Project"
     title: "FAERS Adverse Events SQL Project"
     excerpt: "Built an SQLite database from FDA FAERS data to analyze drug safety, with a focus on Ozempic (semaglutide) adverse events."
-    url: /projects/FAERS_Ozempic/
+    url: /projects/bcsurvival/
     btn_label: "See Project"
     btn_class: "btn--primary"
 ---
