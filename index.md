@@ -17,21 +17,21 @@ feature_row:
   - image_path: /assets/img/Garmin_teaser.png
     alt: "Garmin Data Analysis"
     title: "Garmin Data"
-    excerpt: "Data Analysis and Modeling of Garmin Sportwear data"
+    excerpt: "Data Analysis and Modeling of Garmin Sportwear data."
     url: /projects/garmin/
     btn_label: "See Project"
     btn_class: "btn--primary"
   - image_path: /assets/img/Diabetes.png
     alt: "Diabetes Multiclass Prediction"
     title: "Multiclass Prediction of Diabetes"
-    excerpt: "Classification of Diabetic classes by deploying ML algorithms"
+    excerpt: "Classification of Diabetic classes by deploying ML algorithms."
     url: /projects/diabetes/
     btn_label: "See Project"
     btn_class: "btn--primary"
   - image_path: /assets/img/bcsurvival.png
     alt: "Breast Cancer Survival Analysis"
     title: "Breast Cancer Survival Analysis"
-    excerpt: "Development of KM curves and Cox PH Models"
+    excerpt: "Development of KM curves and Cox PH Models."
     url: /projects/bcsurvival/
     btn_label: "See Project"
     btn_class: "btn--primary"
