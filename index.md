@@ -38,7 +38,7 @@ feature_row:
   - image_path: /assets/img/FAERS.png
     alt: "SQLite-powered exploration of FDA adverse event reports"
     title: "SQLite-powered exploration of FDA adverse event reports"
-    excerpt: "Answer practical safety questions related to Ozempic such as top reactions, suspect drugs, and outcomes over time."
+    excerpt: "Answer practical safety questions related to Ozempic such as top reactions, concomitant treatments, and outcomes over time."
     url: /projects/FAERS_Ozempic/
     btn_label: "See Project"
     btn_class: "btn--primary"
