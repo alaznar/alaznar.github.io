@@ -1,7 +1,9 @@
 ---
 title: "FAERS Adverse Events · SQL Project"
 excerpt: "SQLite-powered exploration of FDA adverse event reports"
-teaser: /assets/img/FAERS.png
+header:
+  overlay_image: /assets/img/ozempicheader.webp
+  overlay_filter: 0.3
 ---
 
 ***Challenge***  
