@@ -8,13 +8,12 @@ teaser: /assets/img/FAERS.png
 Build a beginner‑friendly yet solid SQL pipeline (with `sqlite3` in Python) to ingest, model, and query FDA Adverse Event Reporting System (FAERS) quarterly extracts. Answer practical safety questions such as top reactions, suspect drugs, and outcomes over time.
 
 ***Focus***  
-Designing a simple relational schema from the FAERS text files; loading data into SQLite; crafting readable SQL for joins across `DEMO`, `DRUG`, `REAC`, `OUTC`, etc.; handling partial dates; creating indexes; and validating results with sanity checks and small visualizations.
+Designing a simple relational schema from the FAERS text files; loading data into SQLite; crafting readable SQL for joins across `DEMO`, `DRUG`, `REAC`, `OUTC`, etc.; validating results with sanity checks and small visualizations.
 
 ***Results***  
 - Lightweight SQLite database created from raw `$`‑delimited FAERS files  
 - Reusable queries for: most frequent reactions (PT), primary‑suspect drugs, outcomes (death, hospitalization, etc.), and country breakdowns  
-- Examples of dechallenge/rechallenge filters and therapy windows  
-- A clean Jupyter notebook showing step‑by‑step loading, schema, and analysis (beginner style, well commented)
+- A clean Jupyter notebook showing step‑by‑step loading, schema, and analysis
 
 ***Stack***  
 Python · sqlite3 · SQL · pandas · matplotlib · Jupyter Notebook
