@@ -1,7 +1,9 @@
 ---
 title: "Breast Cancer Survival Analysis"
 excerpt: "Kaplan–Meier and Cox regression on the GBSG2 dataset"
-teaser: /assets/img/bcsurvival.png
+header:
+  overlay_image: /assets/img/survivalheader.png
+  overlay_filter: 0.3
 ---
 
 ***Challenge***  
@@ -18,6 +20,7 @@ R · survival · pec · ggplot2 · dplyr · R Markdown
 
 - [Repo](https://github.com/alaznar/Breast-Cancer-Survival)
 - [Click here to see the Project](https://htmlpreview.github.io/?https://github.com/alaznar/Breast-Cancer-Survival/blob/main/Survival-Analysis_R.html)
+
 
 
 
