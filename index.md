@@ -4,7 +4,7 @@ title: "Alejandro Aznar - Data Scientist"
 subtitle: "R · Python · Power BI · Automation · Safety/Clinical Data"
 header:
   overlay_filter: 0.20
-  overlay_image: /assets/img/header.jpg # opcional
+  overlay_image: /assets/header.jpg
   actions:
     - label: "Descargar CV"
       url: /assets/CV_Alejandro_Aznar.pdf
